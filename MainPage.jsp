@@ -23,7 +23,7 @@
 <script src="http://d3js.org/d3.v2.js"></script>
 
 
-<title>1st NLTweb</title>
+<title>1st NLTweb안녕하신가!</title>
 </head>
 <body>
 <jsp:include page="./content/content.jsp"></jsp:include>
